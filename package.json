@@ -1,0 +1,24 @@
+{
+  "name": "nosql-social-app",
+  "version": "1.0.0",
+  "description": "Social Network API project using NoSQL databases",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorkeltgen/NoSQL-Social-App.git"
+  },
+  "author": "taylorkeltgen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorkeltgen/NoSQL-Social-App/issues"
+  },
+  "homepage": "https://github.com/taylorkeltgen/NoSQL-Social-App#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2"
+  }
+}
