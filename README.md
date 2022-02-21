@@ -1,5 +1,9 @@
 # NoSQL-Social-App
 
+## Description
+
+- A back-end created with NoSQL to support a Social User Application.
+
 ## User Story
 
 - AS A social media startup
